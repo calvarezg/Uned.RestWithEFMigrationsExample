@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uned.RestWithEFExample", "Uned.RestWithEFExample\Uned.RestWithEFExample.csproj", "{0A5D197A-1A89-40C0-89EB-64504118BD96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A5D197A-1A89-40C0-89EB-64504118BD96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A5D197A-1A89-40C0-89EB-64504118BD96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A5D197A-1A89-40C0-89EB-64504118BD96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A5D197A-1A89-40C0-89EB-64504118BD96}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61E8899B-DB1E-4379-A8D1-90D53F7192B1}
+	EndGlobalSection
+EndGlobal
